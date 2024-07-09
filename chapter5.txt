@@ -1,0 +1,1 @@
+i accidentaly pushed this file on remote repo and it contains some sensitive information , omg how can i do ???
